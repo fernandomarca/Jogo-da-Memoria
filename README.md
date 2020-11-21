@@ -14,8 +14,18 @@ Clássico jogo da memória com as principais techs web.
 
 ## 🔖 Layout
 
-<img src="screen/screen1.png">
-<img src="screen/screen2.png">
+<div>
+  <table>
+    <tr>
+      <td>
+       <img src="screen/screen1.png">
+      </td>
+      <td>
+         <img src="screen/screen2.png">
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## Licença
 
